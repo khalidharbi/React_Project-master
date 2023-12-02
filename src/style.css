@@ -1,0 +1,28 @@
+.container {
+    margin-top: 20px;
+}
+
+div {
+    margin-bottom: 10px;
+}
+
+label {
+    padding-left: 10px;
+}
+
+input[type='checkbox']{
+    margin-left: 10px;
+}
+
+.fixed-button {
+    position: fixed;
+    top: 0;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.container-center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
